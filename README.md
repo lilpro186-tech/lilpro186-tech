@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm lilpro186 👋
 
-<!--
-**lilpro186-tech/lilpro186-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Projects
 
-Here are some ideas to get you started:
+### Christ Tech — Faith-Tech Landing Page
+A landing page for a Christian tech community, built with HTML & CSS.
+- 🔗 Live: https://lilpro186-tech.github.io/Christ-tech-site/
+- 💻 Code: https://github.com/lilpro186-tech/Christ-tech-site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### UNICAL Result Portal
+A university result portal login page, built with HTML & CSS.
+- 🔗 Live: https://lilpro186-tech.github.io/unical-portal/
+- 💻 Code: https://github.com/lilpro186-tech/unical-portal
